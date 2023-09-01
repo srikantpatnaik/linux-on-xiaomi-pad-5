@@ -5,13 +5,13 @@
 
 ## Contents
 
-1. Getting device ready
+1. [Getting device ready](root.md)
 
-2. Partitioning & installing GNU/Linux(PostmarketOS or pmos)
+2. [Partitioning & installing GNU/Linux(PostmarketOS or pmos)](installing-postmarketOS.md)
 
-3. Do's and Don't with the KDE 
+3. [Do's and Don't with the KDE](kde-tweaks.md)
 
-4. Switching between Android and GNU/Linux
+4. [Switching between Android and GNU/Linux](switch-slots.md)
 
 5. Testing your Linux Kernel (upcoming)
 
