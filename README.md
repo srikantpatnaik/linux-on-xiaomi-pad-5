@@ -12,7 +12,7 @@
 - [x] 1440p/30fps Youtube with no frame drops
 - [x] Manual Screen rotation
 - [x] Display dark sleep 
-- [-] GPU 
+- [x] GPU
 - [ ] Display and CPU sleep (similar to Android)
 - [ ] Sleep / Suspend
 - [ ] Hibernation
