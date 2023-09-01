@@ -3,6 +3,28 @@
 **Thanks to the work done by [xda member serdeliuk](https://forum.xda-developers.com/t/rom-postmarketos-linux-boot-on-xiaomi-pad-5-nabu.4454143/) and many others.**
 **This repository attempts to document various steps involved in the process.**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrikantpatnaik%2Flinux-on-xiaomi-pad-5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## What's tested and what not!
+
+- [x] Bluetooth (audio, mic, keyboard, mice)
+- [x] WiFi (and WiFi sleep)
+- [x] 1440p/30fps Youtube with no frame drops
+- [x] Manual Screen rotation
+- [x] Display dark sleep 
+- [-] GPU 
+- [ ] Display and CPU sleep (similar to Android)
+- [ ] Sleep / Suspend
+- [ ] Hibernation
+- [ ] Sound from speakers
+- [ ] Microphone
+- [ ] Front and rear camera
+- [ ] Fast charging
+- [ ] Battery status
+- [ ] Power and volume buttons
+- [ ] Sensors (Ambient, rotation)
+
+
 ## Contents
 
 1. [Getting device ready](root.md)
@@ -22,6 +44,4 @@
 8. Screenshots and videos (upcoming)
 
 9. [References](references.md)
-
-   
 
