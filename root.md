@@ -1,7 +1,7 @@
 # Root and Magisk
 
 1. Get the original factory firmware(android OS) for your region, in our case download 
-   the fastboot version from [here](https://xiaomifirmwareupdater.com/miui/nabu/)
+   the fastboot version from [here](https://xmfirmwareupdater.com/miui/nabu/stable/V14.0.7.0.TKXINXM/)
 
 2. Extract the firmware and navigate to `images` directory. 
 
